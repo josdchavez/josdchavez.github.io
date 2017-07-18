@@ -3,6 +3,6 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 defaults:
   - scope:
-      path: "assets/img"
+      path: "cv/chavez-resume. pdf"
     values:
       image: true
