@@ -9,7 +9,7 @@ date: 2017-07-21
 The original project site is <a href="http://newhive.com/josdchavez/dalitbombay">here.</a> 
 </p>
 Original description:<br> 
-A Dalit Bombay Counter-Cartography: Aesthetics of Violence and Stigmatized Bodies<br> 
+"A Dalit Bombay Counter-Cartography: Aesthetics of Violence and Stigmatized Bodies<br> 
 Instructions: Hovering over the pins will show the location's name. Start with the BDD Chawls, right in the middle of Bombay. Go to the next location specified on the last slide of each location. The argument ends in Kala Ghoda. Following the locations specified will develop the map's argument. Zooming in will be necessary in order to read some of the media. <br>
 About the map<br>
 The map charts a syncretized modernism (a Bombay geomodernism) as the condition of possibility for Dalit literature to negotiate Dalit social and physical spaces in the city. Through a close reading of four of Dhasal's poetry, I map a counter-cartography where violence becomes an aesthetic experience that is both dehumanizing but also a way through which to negotiate conditions of disposability. Dhasal offers a life-world of Dalit Bombay whose violence is informed by the way "women" are constructed in relation to Dhasal's Dalit masculinity. The polysemic function of the "whore" in his poetry constructs different versions of women (women with different genders) along the lines of caste, class, religion and stigma, which allows Dalit masculinity to negotiate with the state and make itself a political subject.<br> 
