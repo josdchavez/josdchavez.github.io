@@ -18,4 +18,4 @@ A text-only version of the essay with bibliography can be downloaded <a href="ht
 <br>
 I do not own any of the images that have been reproduced here.
 <p>The Map:</p>
-<iframe width="100%" height="100%" frameborder="0" src="http://d1v8u1ev1s9e4n.cloudfront.net/585a18105ccacf44bbd12b15" class="content" style="opacity: 1;"></iframe>
+"http://d1v8u1ev1s9e4n.cloudfront.net/585a18105ccacf44bbd12b15" 
