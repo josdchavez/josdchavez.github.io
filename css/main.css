@@ -3,7 +3,7 @@ body {
     width: 70%; 
 }
 nav ul, footer ul {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Bookman Old Style";
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -23,7 +23,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:"Bookman Old Style";
 }
 p {
     font-size: 1.5em;
