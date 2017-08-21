@@ -1,7 +1,7 @@
 body {
-      animation: colorchange 50s; /* animation-name followed by duration in seconds*/
+      animation: colorchange 1s infinite; /* animation-name followed by duration in seconds*/
          /* you could also use milliseconds (ms) or something like 2.5s */
-      -webkit-animation: colorchange 50s; /* Chrome and Safari */
+      -webkit-animation: colorchange 1s infinite;; /* Chrome and Safari */
     }
 
     @keyframes colorchange
@@ -23,5 +23,5 @@ body {
     }
     *{
     color: white;
-    font-family: "Bookman Old Style";
+    font-family: "Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace";
     }
