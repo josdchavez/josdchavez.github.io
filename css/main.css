@@ -3,7 +3,7 @@ body {
     width: 70%; 
 }
 nav ul, footer ul {
-    font-family: "Bookman Old Style";
+    font-family: "Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace";
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -23,7 +23,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:"Bookman Old Style";
+    font-family:"Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace";
 }
 p {
     font-size: 1.5em;
@@ -46,7 +46,7 @@ ul.posts li {
 
 * {
    
-    color: seashell;
+    color: lightgrey;
     background-color: black;
-    font-family: "Bookman Old Style";
+    font-family: "Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace";
 }
