@@ -1,5 +1,6 @@
 body {
-    
+    font-size:2em;
+    font-family: "Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace";
     margin: 60px auto;
     width: 70%; 
 }
@@ -18,7 +19,7 @@ a:link {
     //color: #999;
 }
 a:hover {
-    color: lavender;
+    color: amber;
     text-decoration: underline;
     
 }
